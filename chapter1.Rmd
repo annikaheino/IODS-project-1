@@ -6,7 +6,7 @@
 I have some feelings of excitement but also worry if I will have enough time to complete the course. 
 I hope to become familiar with the tools. 
 
-My GitHub repository: https://annikaheino.github.io/IODS-project-1/ 
+My GitHub repository: https://github.com/annikaheino/IODS-project-1
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
